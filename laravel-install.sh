@@ -5,7 +5,7 @@
 #############################################################
 # Instructions to run the script
 #############################################################
-# sudo chmod + laravel-install.sh
+# sudo chmod +x laravel-install.sh
 # ./laravel-install.sh
 
 #############################################################
